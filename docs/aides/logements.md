@@ -31,4 +31,4 @@ This is a tip
 This is a tip
 :::
 
-![An image](/image.png)
+![An image](/logo.png)
