@@ -1,5 +1,12 @@
 import { defineUserConfig } from "vuepress";
+import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
+import { getDirname, path } from '@vuepress/utils'
+import { hopeTheme } from "vuepress-theme-hope";
+
+const __dirname = getDirname(import.meta.url)
+
 import theme from "./theme.js";
+
 
 export default defineUserConfig({
   base: "/",
@@ -9,6 +16,11 @@ export default defineUserConfig({
   description: "Aidez-moi à vous aider",
 
   theme,
+  plugins: [
+    registerComponentsPlugin({
+      componentsDir: path.resolve(__dirname, './components'),
+    }),
+  ],
 
   // Enable it with pwa
   // shouldPrefetch: false,

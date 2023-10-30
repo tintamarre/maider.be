@@ -16,6 +16,8 @@ export default hopeTheme({
 
   repo: "tintamarre/maider.be",
 
+  repoDisplay: false,
+
   docsDir: "docs",
 
   // navbar
@@ -28,14 +30,14 @@ export default hopeTheme({
 
   displayFooter: false,
 
-  encrypt: {
-    config: {
-      "/demo/encrypt.html": ["1234"],
-    },
-  },
+  // encrypt: {
+  //   config: {
+  //     "/demo/encrypt.html": ["1234"],
+  //   },
+  // },
 
   metaLocales: {
-    editLink: "Modifier cette page sur GitHub",
+    editLink: "Modifier cette page",
   },
 
   plugins: {
