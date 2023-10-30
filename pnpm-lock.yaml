@@ -11,6 +11,9 @@ devDependencies:
   '@vuepress/plugin-register-components':
     specifier: 2.0.0-beta.67
     version: 2.0.0-beta.67
+  '@vuepress/utils':
+    specifier: 2.0.0-beta.67
+    version: 2.0.0-beta.67
   mermaid:
     specifier: ^10.6.0
     version: 10.6.0
