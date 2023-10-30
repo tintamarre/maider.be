@@ -5,11 +5,6 @@ import sidebar from "./sidebar.js";
 export default hopeTheme({
   hostname: "https://maider.be",
 
-  author: {
-    name: "",
-    url: "",
-  },
-
   iconAssets: "fontawesome-with-brands",
 
   logo: "/logo.svg",
@@ -29,7 +24,10 @@ export default hopeTheme({
   footer: "Projet collaboratif",
 
   displayFooter: false,
+  copyright: false,
+  // pageInfo: false,
 
+  // author: false,
   // encrypt: {
   //   config: {
   //     "/demo/encrypt.html": ["1234"],
@@ -39,7 +37,6 @@ export default hopeTheme({
   metaLocales: {
     editLink: "Modifier cette page",
   },
-
   plugins: {
     // You should generate and use your own comment service
     // comment: {
@@ -49,6 +46,8 @@ export default hopeTheme({
     //   category: "Announcements",
     //   categoryId: "DIC_kwDOG_Pt2M4COD69",
     // },
+    blog: true,
+
 
     // All features are enabled for demo, only preserve features you need here
     mdEnhance: {
@@ -84,7 +83,7 @@ export default hopeTheme({
       mark: true,
 
       // install mermaid before enabling it
-      // mermaid: true,
+      mermaid: true,
 
       playground: {
         presets: ["ts", "vue"],

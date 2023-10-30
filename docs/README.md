@@ -3,8 +3,6 @@ home: true
 icon: home
 title: Accueil
 heroImage: /logo.svg
-<!-- bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg -->
-<!-- bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg -->
 bgImageStyle:
   background-attachment: fixed
 heroText: M'aider.be
@@ -14,47 +12,54 @@ actions:
     link: ./aides/
     type: secondary
 
-  - text: Discuter avec une IA
-    link: ./chat/
+  - text: Obtenir de l'aide
+    link: ./rag/
     type: primary
 
 highlights:
   - header: Toutes les aides en un seul endroit
     description: Trouver simplement les aides qui vous correspondent à vos besoins
-    <!-- bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg -->
+    bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
     bgImageStyle:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: Logements
+      - title: Logement
         icon: house
-        details: Check markdown links
-        link: ./aides/logements
+        details: Se loger, rénover, déménager, ...
+        link: ./tag/logement/
 
       - title: Énergie
         icon: plug
-        details: Decorate Markdown content with styles
-        link: ./aides/energie
+        details: Économiser l'énergie, se chauffer, ...
+        link: ./tag/energie/
 
       - title: Emploi
         icon: briefcase
-        details: Group similar content with tabs and switch them together
-        link: ./aides/emploi
+        details: Se former, trouver un emploi, ...
+        link: ./tag/emploi
 
       - title: Handicap
         icon: wheelchair-move
-        details: Group similar codes with tabs
-        link: ./aides/handicap
+        details: Adapter son logement, trouver un emploi, ...
+        link: ./tag/handicap
 
-      - title: Famille
-        icon: people-roof
-        details: Let you decide to align paragraphs in the way you like
-        link: ./aides/famille
+      - title: Santé
+        icon: hospital
+        details: Soins, aides, ...
+        link: ./tag/santé
 
+      - title: Mobilité
+        icon: bus
+        details: Se déplacer, ...
+        link: ./tag/mobilité
 
+      - title: Fiscalité
+        icon: euro-sign
+        details: Obtenez des réductions, ...
+        link: ./tag/fiscalité
 
-copyright: false
 footer: Projet collaboratif
 ---
 
