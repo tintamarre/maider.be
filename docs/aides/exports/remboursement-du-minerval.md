@@ -10,6 +10,7 @@ tag:
 ## Description
 
 Remboursement du minerval.
+
 Dans le cadre du Plan de reconstruction de la Wallonie, le Gouvernement Wallon et l'IFAPME ont pris la décision de rembourser le minerval pour les formations d’adultes des filières de la construction, de l'électrotechnique et du bois, les mériers en pénurie et fonction critique pour l'année de formation 2022/2023. 
 
 ## Références externes 

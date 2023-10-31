@@ -10,13 +10,14 @@ tag:
 ## Description
 
 Accès au Fonds social de l'eau et au Fonds d'amélioration technique.
+
 Le Fonds social de l'eau est un mécanisme financier destiné à intervenir principalement dans le paiement des factures d'eau des consommateurs en difficulté de paiement. Le Fonds d'amélioration technique vise à intervenir dans le remboursement de frais pour des améliorations d'ordre technique en vue d'une gestion rationnelle de l'eau.
 
 ## Références externes 
 
 ### Base légale
 
-[Code de l'eau D.234 - D.251  + R309 à R.320/ AGW/ Circulaire](http://environnement.wallonie.be/legis/Codeenvironnement/codeeaucoordonneD.htm)
+- [Code de l'eau D.234 - D.251  + R309 à R.320/ AGW/ Circulaire](http://environnement.wallonie.be/legis/Codeenvironnement/codeeaucoordonneD.htm)
 
 ### Arrêté d'exécution
 

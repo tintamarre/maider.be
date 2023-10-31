@@ -10,7 +10,6 @@ tag:
 ## Description
 
 Obtenir une allocation ou prime de naissance.
-False
 
 ## Références externes 
 

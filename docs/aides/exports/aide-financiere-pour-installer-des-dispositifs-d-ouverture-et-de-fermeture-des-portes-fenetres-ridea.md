@@ -11,7 +11,6 @@ tag:
 ## Description
 
 Bénéficier d'une aide financière pour installer des dispositifs d'ouverture et de fermeture des portes / fenêtres / rideaux.
-False
 
 ## Références externes 
 

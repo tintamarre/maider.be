@@ -11,7 +11,6 @@ tag:
 ## Description
 
 Demander une prime pour adapter mon véhicule.
-False
 
 ## Références externes 
 

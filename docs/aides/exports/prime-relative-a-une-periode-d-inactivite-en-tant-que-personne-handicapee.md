@@ -11,6 +11,7 @@ tag:
 ## Description
 
 Bénéficier d'une prime relative à une période d'inactivité en tant que personne handicapée.
+
 Cette démarche est appelée prime à l'intégration. Il s'agit d'une intervention financière destinée à encourager l'engagement ou la reprise de travail après une période d'incapacité d'un travailleur handicapé.
 
 ## Références externes 

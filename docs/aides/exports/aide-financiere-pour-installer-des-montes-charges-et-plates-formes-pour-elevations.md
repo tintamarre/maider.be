@@ -11,7 +11,6 @@ tag:
 ## Description
 
 Bénéficier d'une aide financière pour installer des montes-charges et plates-formes pour élévations.
-False
 
 ## Références externes 
 

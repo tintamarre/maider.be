@@ -11,6 +11,7 @@ tag:
 ## Description
 
 Bénéficier de facilités pour le passage du permis de conduire en raison d'un handicap.
+
 Lorsque des personnes qui ont des difficultés de compréhension ou de lecture souhaitent passer leur examen théorique pour le permis de conduire, elles peuvent passer l’examen en session spéciale. Un examinateur sera alors à leurs côtés pour leur donner les explications nécessaires à la compréhension de la question. Ces sessions spéciales se déroulent obligatoirement sur rendez-vous.
 
 ## Références externes 

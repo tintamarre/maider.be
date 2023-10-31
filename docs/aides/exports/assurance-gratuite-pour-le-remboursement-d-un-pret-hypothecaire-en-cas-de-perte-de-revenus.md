@@ -10,6 +10,7 @@ tag:
 ## Description
 
 Bénéficier d'une assurance gratuite pour le remboursement d'un prêt hypothécaire en cas de perte de revenus.
+
 L'assurance contre la perte des revenus est une assurance souscrite, pour le citoyen par la Wallonie auprès d'un organisme assureur,
 
 ## Références externes 

@@ -10,7 +10,6 @@ tag:
 ## Description
 
 Bénéficier d'une aide financière pour acquérir un lève-personne, des sangles, etc..
-False
 
 ## Références externes 
 

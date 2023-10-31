@@ -10,7 +10,6 @@ tag:
 ## Description
 
 Bénéficier de titres-services gratuits d'aide à la maternité en tant que femme indépendante.
-False
 
 ## Références externes 
 

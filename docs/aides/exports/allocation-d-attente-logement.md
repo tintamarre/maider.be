@@ -10,13 +10,14 @@ tag:
 ## Description
 
 Obtenir une allocation d'attente logement.
+
 La SWL a permis la connection entre les SLSP et le SPW dans le cadre dun projet d'Attribution automatique d'une allocation loyer à destination des candidats-locataires 
 
 ## Références externes 
 
 ### Base légale
 
-[https://wallex.wallonie.be/eli/arrete/2023/03/10/2023202959](https://wallex.wallonie.be/eli/arrete/2023/03/10/2023202959)
+- [https://wallex.wallonie.be/eli/arrete/2023/03/10/2023202959](https://wallex.wallonie.be/eli/arrete/2023/03/10/2023202959)
 
 ### Arrêté d'exécution
 

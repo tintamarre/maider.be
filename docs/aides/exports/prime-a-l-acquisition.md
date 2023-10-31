@@ -10,6 +10,7 @@ tag:
 ## Description
 
 Obtenir une prime à l'acquisition.
+
 Cette prime est une aide financière, d'un montant forfaitaire de 745 EUR, qui peut être obtenue auprès du Service public de Wallonie, pour un logement - existant ou neuf - acheté dans le secteur public et, bien sûr, situé en Wallonie.
 
 ## Références externes 

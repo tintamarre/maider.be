@@ -16,7 +16,6 @@ tag:
 ## Description
 
 Demander une indemnisation pour les personnes physiques et les personnes morales dans le cadre d'une calamité naturelle publique.
-False
 
 ## Références externes 
 

@@ -10,6 +10,7 @@ tag:
 ## Description
 
 Bénéficier du statut de client protégé régional - tarif social de l'énergie.
+
 La sixième catégorie (clients protégés exclusivement régionaux) concerne les personnes qui bénéficient :
 
     d’une décision de guidance éducative de nature financière prise par un CPAS ;

@@ -10,6 +10,7 @@ tag:
 ## Description
 
 Obtenir un prêt social pour constituer la garantie locative.
+
 obtenir un prêt pour constituer la garanite locative pour de la conclusion d'un contrat de bail (2 mois de loyer)
 
 ## Références externes 

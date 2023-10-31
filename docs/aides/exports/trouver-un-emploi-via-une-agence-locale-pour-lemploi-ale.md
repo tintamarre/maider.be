@@ -10,7 +10,6 @@ tag:
 ## Description
 
 Trouver un emploi via une Agence Locale pour l’Emploi (ALE).
-False
 
 ## Références externes 
 

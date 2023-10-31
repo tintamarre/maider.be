@@ -10,7 +10,6 @@ tag:
 ## Description
 
 Demander une prime pour l'achat d'une chaise roulante.
-False
 
 ## Références externes 
 

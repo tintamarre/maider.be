@@ -10,6 +10,7 @@ tag:
 ## Description
 
 Bénéficier d'un plan Formation-Insertion (PFI).
+
 Indemnités de formation cumulées aux allocations
 
 ## Références externes 

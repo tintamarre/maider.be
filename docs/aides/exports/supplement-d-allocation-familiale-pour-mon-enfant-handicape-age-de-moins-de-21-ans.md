@@ -10,7 +10,6 @@ tag:
 ## Description
 
 Bénéficier d'un supplément d'allocation familiale pour mon enfant handicapé âgé de moins de 21 ans.
-False
 
 ## Références externes 
 

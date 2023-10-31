@@ -11,6 +11,7 @@ tag:
 ## Description
 
 Demander une prime d'adaptation pour mon logement.
+
 Il ne s'agit pas de primes : l'AVIQ finance certaines adaptations (dépend de beaucoup de conditions). L’aide individuelle à l’intégration regroupe des interventions financières fournies par l’AVIQ dans le coût d’aménagements, d’aides techniques et de certaines prestations de services. Ces aides ont pour objectif de permettre aux personnes ayant d’importantes limitations fonctionnelles entraînant de graves difficultés pour réaliser les activités essentielles de la vie quotidienne, de mener une vie la plus autonome possible. 
 
 ## Références externes 

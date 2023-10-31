@@ -10,7 +10,6 @@ tag:
 ## Description
 
 Bénéficier d'allocations familiales en Wallonie.
-False
 
 ## Références externes 
 

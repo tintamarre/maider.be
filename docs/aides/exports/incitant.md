@@ -10,6 +10,7 @@ tag:
 ## Description
 
 Incitant + .
+
 Il s'agit d'un montant de 350€ octroyé aux demandeurs d’emploi qui réussissent une formation dans un métier en pénurie et/ou une fonction critique. Cette prime est appelée l’« Incitant + » !
  Elle donne droit à un incitant financier de 350€ ; Une préparation à un entretien d’embauche ;La promesse d’un entretien d’embauche : consécutivement au paiement de cette prime de fin de formation, le Forem proposera aux diplômés une ou plusieurs offres d’emploi en lien direct avec leur formation.
 

@@ -10,6 +10,7 @@ tag:
 ## Description
 
 Bénéficier d'avantages lors de l'achat d'un véhicule automatique adapté.
+
 Si recommandation de la DAC (ASWR) après une évaluation d'aptitude à la conduite, l'AVIQ peut selon certaines conditions financer le surcoût. 
 
 ## Références externes 

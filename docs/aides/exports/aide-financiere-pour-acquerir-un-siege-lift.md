@@ -10,7 +10,6 @@ tag:
 ## Description
 
 Bénéficier d'une aide financière pour acquérir un siège lift.
-False
 
 ## Références externes 
 

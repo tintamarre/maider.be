@@ -10,6 +10,7 @@ tag:
 ## Description
 
 M'informer auprès du Fonds du logement des familles nombreuses de Wallonie pour obtenir de l'aide dans ma recherche et dans l'attribution de mon logement.
+
 Mise en location d'un logement salubre aux familles nombreuses, adapté à leur  situation familiale et financière, principalement en milieu urbain.
 
 ## Références externes 

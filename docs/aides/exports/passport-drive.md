@@ -10,6 +10,7 @@ tag:
 ## Description
 
 Passport Drive.
+
 Pour faciliter la mobilité des apprenants et apprenantes en alternance, le Gouvernement wallon a mis en place le remboursement des frais liés à l’apprentissage de la conduite en auto-école. Cette aide est valable pour le permis B (voiture) ou le permis AM (cyclomoteur). 
 
 ## Références externes 

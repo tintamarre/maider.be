@@ -10,6 +10,7 @@ tag:
 ## Description
 
 Bénéficier d'un crédit avantageux en tant que famille nombreuse pour acheter, construire, rénover ou adapter le logement familial son habitation ou encore refinancer une dette onéreuse contractée à de telles fins.
+
 Crédit hypothécaire à taux réduit destiné à l'achat, la construction, la rénovation ou l'adaptation de son logement ou le refinancement d'une dette onéreuse contractée à de telles fins
 
 ## Références externes 

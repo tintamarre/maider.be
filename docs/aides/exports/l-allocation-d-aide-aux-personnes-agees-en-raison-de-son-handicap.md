@@ -10,13 +10,14 @@ tag:
 ## Description
 
 Bénéficier de l'allocation d'aide aux personnes âgées en raison de son handicap.
+
 Aide financière pour les personnes de 65 ans et plus qui sont en perte d'autonomie et ne disposent pas de beaucoup de moyens financiers.  L'aide a pour but de compenser le surcout que leur perte d'autonomie leur impose pour pouvoir continuer à vivre "normalement".
 
 ## Références externes 
 
 ### Base légale
 
-[https://wallex.wallonie.be/eli/loi-decret/2020/10/01/2020204147/2021/01/01](https://wallex.wallonie.be/eli/loi-decret/2020/10/01/2020204147/2021/01/01)
+- [https://wallex.wallonie.be/eli/loi-decret/2020/10/01/2020204147/2021/01/01](https://wallex.wallonie.be/eli/loi-decret/2020/10/01/2020204147/2021/01/01)
 
 ### Arrêté d'exécution
 

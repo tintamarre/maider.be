@@ -11,6 +11,7 @@ tag:
 ## Description
 
 Bénéficier d'une aide financière pour construire / rénover des surfaces supplémentaires.
+
 Idem. Attention, il ne s'agit pas de financer la construction ou la rénovation, mais de financer les aménagements qui seraient nécessaires pour les personnes en situation de handicap. 
 
 ## Références externes 

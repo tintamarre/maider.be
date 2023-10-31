@@ -11,7 +11,6 @@ tag:
 ## Description
 
 Bénéficier d'une aide financière pour installer des élévateurs d'escaliers avec siège.
-False
 
 ## Références externes 
 

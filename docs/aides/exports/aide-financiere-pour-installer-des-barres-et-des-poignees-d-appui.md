@@ -10,7 +10,6 @@ tag:
 ## Description
 
 Bénéficier d'une aide financière pour installer des barres et des poignées d'appui.
-False
 
 ## Références externes 
 

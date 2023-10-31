@@ -10,7 +10,6 @@ tag:
 ## Description
 
 Se faire accompagner par une Structure d’Accompagnement à l’Autocréation d’Emploi.
-False
 
 ## Références externes 
 

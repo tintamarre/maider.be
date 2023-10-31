@@ -11,6 +11,7 @@ tag:
 ## Description
 
 Précompte immobilier (PRI) - Remise proportionnelle (charge de famille(enfants à charges), personnes ou enfants handicapés et grands invalides de guerre).
+
 Les réclamations administratives introduites par les redevables tendent à obtenir un dégrèvement total ou partiel  du précompte immobilier pour les raisons suivantes: exonérations prévues à l'article 253 du CIR, contestation de proriété, révision du revenu cadastral et demande de remise propotionelle 
 
 ## Références externes 

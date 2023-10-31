@@ -22,7 +22,7 @@ export default hopeTheme({
   sidebar,
 
   footer: "Projet collaboratif",
-
+  contributors: false,
   displayFooter: false,
   copyright: false,
   // pageInfo: false,

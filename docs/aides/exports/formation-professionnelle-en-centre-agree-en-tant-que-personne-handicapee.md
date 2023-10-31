@@ -11,7 +11,6 @@ tag:
 ## Description
 
 Bénéficier d'une formation professionnelle en centre agréé en tant que personne handicapée.
-False
 
 ## Références externes 
 

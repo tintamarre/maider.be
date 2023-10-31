@@ -10,6 +10,7 @@ tag:
 ## Description
 
 Quasi-gratuité du transport public.
+
 3 publics cibles peuvent, depuis le 1er septembre 2022, bénéfier de la quasi-gratuité: les personnes âgées entre 18 et 24 ans, les plus de 64 ans et les bénéficiaires du statut BIM
 
 ## Références externes 

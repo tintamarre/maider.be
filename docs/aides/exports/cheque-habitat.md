@@ -11,7 +11,6 @@ tag:
 ## Description
 
 Bénéficier du chèque Habitat.
-False
 
 ## Références externes 
 

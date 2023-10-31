@@ -10,6 +10,7 @@ tag:
 ## Description
 
 M'informer auprès d'une association de promotion du logement (APL) pour obtenir de l'aide dans ma recherche et dans l'attribution de mon logement.
+
 la mise à disposition de logements à loyer modéré avec accompagnement spécifique du locataire et éventuellement du propriétaire
 la formation/information en matière administrative, juridique ou technique relative au logement
 le développement de projets novateurs

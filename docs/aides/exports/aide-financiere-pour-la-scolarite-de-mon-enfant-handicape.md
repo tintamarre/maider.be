@@ -10,6 +10,7 @@ tag:
 ## Description
 
 Bénéficier d'une aide financière pour la scolarité de mon enfant handicapé.
+
 Possibilités pour : frais de déplacement, frais de séjour, frais de matériel spécifique, accompagnement pédagogique. Voir site web en commentaire.
 
 ## Références externes 

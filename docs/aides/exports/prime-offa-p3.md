@@ -10,6 +10,7 @@ tag:
 ## Description
 
 Prime OFFA - P3.
+
 Tout(e) apprenant(e) inscrit(e) chez un opérateur de formation en alternance ayant obtenu une certification dans le cadre de sa formation en alternance. Une prime de 750 € octroyée une seule fois.
 
 ## Références externes 

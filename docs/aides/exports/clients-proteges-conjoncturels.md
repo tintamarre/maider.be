@@ -10,6 +10,7 @@ tag:
 ## Description
 
 Clients protégés conjoncturels.
+
 A priori plus d'application depuis juin 2023 - à voir si on supprime tout court de l'inventaire
 Appliquer le tarif social pour les citoyens dans certaines conditions
 

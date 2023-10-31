@@ -11,7 +11,6 @@ tag:
 ## Description
 
 Bénéficier d'une aide financière pour pouvoir utiliser un mobilier adapté.
-False
 
 ## Références externes 
 

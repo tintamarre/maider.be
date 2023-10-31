@@ -10,6 +10,7 @@ tag:
 ## Description
 
 Prime à la formation "Plan de reconstruction ".
+
 Une prime jusqu’à 2000€ est proposée aux apprenants IFAPME en alternance, inscrits dans ces filières. Pour savoir si vous y avez droit, il peut consultez  la liste des formations concernées et les conditions et modalités d'octroi dont les conditions spécifiques pour les primo-entrants.
 
 ## Références externes 

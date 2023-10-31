@@ -10,7 +10,6 @@ tag:
 ## Description
 
 Bénéficier d'une aide financière pour acquérir un siège percé de toilette, un siège de douche, un siège de bain, etc..
-False
 
 ## Références externes 
 

@@ -10,6 +10,7 @@ tag:
 ## Description
 
 M'informer auprès d'une agence immobilière sociale (AIS) pour obtenir de l'aide dans ma recherche et dans l'attribution d'un logement pour étudiant.
+
 Permettre aux étudiants dont les revenus sont modestes de se loger en Wallonie
 
 ## Références externes 

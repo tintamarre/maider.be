@@ -10,13 +10,14 @@ tag:
 ## Description
 
 Obtenir le remboursement d’une formation titres-services.
+
 Les titres-services permettent de bénéficier de prestations d'aide-ménagère, de repassage, de courses ménagères ou de transport de personnes à mobilité réduite, à des tarifs avantageux.
 
 ## Références externes 
 
 ### Base légale
 
-[Article 9bis de la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité inséré par la loi programme du 27 décembre 2006 ](https://wallex.wallonie.be/eli/loi-decret/2001/07/20/2001012803/2023/01/01)
+- [Article 9bis de la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité inséré par la loi programme du 27 décembre 2006 ](https://wallex.wallonie.be/eli/loi-decret/2001/07/20/2001012803/2023/01/01)
 
 ### Arrêté d'exécution
 

@@ -11,6 +11,7 @@ tag:
 ## Description
 
 Demander l'exonération des taxes de circulation et de mise en circulation (Pour les personnes invalides ou infirmes).
+
 Il existe différents types d'exonération pour la taxe de circulation et/ou taxe de mise en circulation qui nécessite une demande de la part du redevable. D'autres sont automatiques (p.ex. les plaques essais). 
 
 Sur base d'une demande, l'exonération de la taxe de circulation et/ou de la taxe de mise en circulation peut être octroyée dans les cas suivants :

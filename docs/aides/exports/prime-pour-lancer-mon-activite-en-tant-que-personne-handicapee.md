@@ -11,6 +11,7 @@ tag:
 ## Description
 
 Bénéficier d'une prime pour lancer mon activité en tant que personne handicapée.
+
 Oui. C’est une prime octroyée à une personne en situation de handicap qui s’installe en qualité d’indépendant, reprend son activité d’indépendant, ou tente de la maintenir.
 
 ## Références externes 

@@ -11,6 +11,7 @@ tag:
 ## Description
 
 Travailler dans une entreprise de travail adapté.
+
 ​​​​​​​​​​L’importance de leur handicap empêche certaines personnes de travailler, temporairement ou définitivement, dans des conditions habituelles. Des entreprises, dénommées entreprises de travail adapté (ETA) (anciennement ateliers protégés), réunissent un maximum de conditions pour leur permettre d’avoir une activité professionnelle à leur mesure. Ces entreprises sont agréées ​et financées par l’Agence pour une Vie de Qualité (AVIQ).
 
 ## Références externes 

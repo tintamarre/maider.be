@@ -10,7 +10,6 @@ tag:
 ## Description
 
 Bénéficier d'une aide financière pour acquérir un lit et un sommier amovible / un support de matelas avec réglage motorisé.
-False
 
 ## Références externes 
 

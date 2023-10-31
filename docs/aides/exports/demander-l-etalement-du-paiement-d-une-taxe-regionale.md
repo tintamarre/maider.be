@@ -10,6 +10,7 @@ tag:
 ## Description
 
 Demander l'étalement du paiement d'une taxe régionale.
+
 Si le redevable éprouve des difficultés pour payer le montant de la taxe qui lui est réclamée, il lui est possible de demander des facilités de paiement auprès du receveur compétent qui est le seul habilité pour les accorder. Pour ce faire, il doit compléter, en ligne, le formulaire prévu à cet effet ou renvoyer la version papier à l'administration fiscale de Wallonie (SPW Finances)  avant la date limite de paiement par email à fiscalite.wallonie@spw.wallonie.be ou par courrier postal.
 Une fois réceptionnée, la demande sera traitée et la décision lui sera communiquée par courrier. Dans l'attente de la réception de cette décision, il lui est demandé d'entamer la réalisation du plan de paiement tel que sollicité.
 

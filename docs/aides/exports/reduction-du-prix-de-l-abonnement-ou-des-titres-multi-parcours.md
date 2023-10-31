@@ -10,6 +10,7 @@ tag:
 ## Description
 
 Réduction du prix de l'abonnement ou des titres multi parcours.
+
 les jeunes âgés entre 12 et 17 ans et les personnes membres d'une famille de 3 enfants bénéficient d'une réduction sur le prix de l'abonnement et/ou des titres multi parcours
 
 ## Références externes 
