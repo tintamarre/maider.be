@@ -25,6 +25,7 @@ export default hopeTheme({
   contributors: false,
   displayFooter: false,
   copyright: false,
+  // darkmode: "toggle",
   // pageInfo: false,
 
   // author: false,
@@ -47,7 +48,6 @@ export default hopeTheme({
     //   categoryId: "DIC_kwDOG_Pt2M4COD69",
     // },
     blog: true,
-
 
     // All features are enabled for demo, only preserve features you need here
     mdEnhance: {

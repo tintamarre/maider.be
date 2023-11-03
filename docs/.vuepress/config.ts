@@ -10,7 +10,7 @@ export default defineUserConfig({
   base: "/",
 
   lang: "fr-FR",
-  title: "M'aider",
+  title: "maider",
   description: "Aidez-moi à vous aider",
 
   theme,

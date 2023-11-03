@@ -7,7 +7,7 @@ bgImage:
 bgImageDark: 
 bgImageStyle:
   background-attachment: fixed
-heroText: M'aider.be
+heroText: maider
 tagline: Trouver des aides en matière de logement, d'emploi, d'énergie, de santé, de mobilité, de fiscalité, ...
 actions:
   - text: Parcourir les aides
@@ -15,7 +15,7 @@ actions:
     type: secondary
 
   - text: M'aider
-    link: ./rag/
+    link: ./chat/
     type: primary
 
 highlights:
