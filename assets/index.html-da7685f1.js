@@ -1,1 +1,0 @@
-import{_ as c}from"./plugin-vue_export-helper-c27b6911.js";import{r as e,o as s,c as r,e as o}from"./app-307a7816.js";const _={};function a(i,l){const t=e("listpages"),n=e("iodda");return s(),r("div",null,[o(t),o(n)])}const p=c(_,[["render",a],["__file","index.html.vue"]]);export{p as default};
