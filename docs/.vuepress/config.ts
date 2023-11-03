@@ -6,7 +6,6 @@ const __dirname = getDirname(import.meta.url)
 
 import theme from "./theme.js";
 
-
 export default defineUserConfig({
   base: "/",
 

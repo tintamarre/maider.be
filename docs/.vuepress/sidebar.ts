@@ -11,10 +11,10 @@ export default sidebar({
       children: "structure",
     },
     {
-      text: "Docs",
-      icon: "book",
-      prefix: "guide/",
-      children: "structure",
-    },
+      text: "Discuter avec une IA",
+      icon: "robot",
+      prefix: "chat/",
+      link: "chat/"
+    }
   ],
 });
