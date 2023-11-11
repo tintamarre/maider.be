@@ -7,16 +7,16 @@ bgImage:
 bgImageDark: 
 bgImageStyle:
   background-attachment: fixed
-heroText: maider
+heroText: maider.be
 tagline: Trouver des aides en matière de logement, d'emploi, d'énergie, de santé, de mobilité, de fiscalité, ...
-actions:
+<!-- actions:
   - text: Parcourir les aides
     link: ./aides/
     type: secondary
 
   - text: M'aider
     link: ./chat/
-    type: primary
+    type: primary -->
 
 highlights:
   - header: 💡 Toutes les aides en un seul endroit
@@ -62,6 +62,6 @@ highlights:
         details: Obtenez des réductions, ...
         link: ./tag/fiscalité
 
-footer: ❤️ Projet collaboratif - <a href="mailto:contact@maider.be">Rejoignez-nous</a>
+footer: <a href="mailto:contact@maider.be">Rejoignez-nous</a>
 ---
 
