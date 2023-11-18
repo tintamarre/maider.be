@@ -15,7 +15,7 @@ export default {
                 "domain": "public-precarise",
                 "title": "maider.be",
                 "intro": "Bonjour, vous pouvez intéragir avec moi en posant des questions sur les aides en RW.",
-                "PERSIST":false
+                "PERSIST": false
             }
         }
     },
@@ -349,10 +349,21 @@ export default {
 .border-none {
   border-style:none
 }
+
+
 .border-gray-200 {
   --tw-border-opacity: 1;
   border-color:rgb(229 231 235 / var(--tw-border-opacity))
 }
+
+.bg-pink {
+  --tw-bg-opacity: 1;
+  /* border-color:rgb(229 231 235 / var(--tw-border-opacity)) */
+  /* d81159 */
+  background-color:rgb(216 17 89 / var(--tw-bg-opacity))
+}
+
+
 .bg-blue-500 {
   --tw-bg-opacity: 1;
   background-color:rgb(59 130 246 / var(--tw-bg-opacity))

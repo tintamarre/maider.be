@@ -5,6 +5,7 @@ icon: robot
 sidebar: false
 pageInfo: false
 editLink: false
+layout: Rag
 ---
 
 <rag />
