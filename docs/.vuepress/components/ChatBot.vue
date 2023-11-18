@@ -1,31 +1,39 @@
 <script setup>
+import maiderWaitingIcon from './icons/maiderWaiting.vue';
+import maiderIcon from './icons/maiderIcon.vue';
 import botMessage from './botMessage.vue';
 import userMessage from './userMessage.vue';
 </script>
 
-<template>
-    
+<template>    
 <div class="h-screen overflow-hidden flex items-center justify-center" 
 style="background: #edf2f7;">
 
-  <div class="flex-1 p:2 sm:p-6 justify-between flex flex-col h-screen">
+    <div class="flex-1 p:2 sm:p-6 justify-between flex flex-col h-screen">
    <div class="flex sm:items-center justify-between py-3 border-b-2 border-gray-200">
       <div class="relative flex items-center space-x-4">
          <div class="relative">
-            
+
+        <maiderIcon class="w-10 sm:w-16 h-10 sm:h-16 rounded-full" />
          </div>
          <div class="flex flex-col leading-tight">
             <div class="text-2xl mt-1 flex items-center">
                <span class="text-gray-700 mr-3">{{ domain.title }}</span>
             </div>
             <span class="text-lg text-gray-600">{{ domain.description }}</span>
+            <span class="text-sm text-gray-400">Je suis maider, l’assistant virtuel du SPW et je peux vous informer sur les aides disponibles en Région wallonne. Mes réponses ne sont pas encore exhaustives et ne peuvent pas se substituer à la documentation officielle.
+</span>
+        
          </div>
+         <button class="mr-1 mb-1 text-white font-bold py-1 px-1 rounded" alt="Télécharger ma conversation">
+              💾
+            </button>
       </div>
       <div class="flex items-center space-x-2">
          
       </div>
    </div>
-   <div id="messages" class="flex flex-col space-y-4 p-3 overflow-y-auto scrollbar-thumb-blue scrollbar-thumb-rounded scrollbar-track-blue-lighter scrollbar-w-2 scrolling-touch">
+   <div ref="messageDisplay" id="messages" class="flex flex-col space-y-4 p-3 overflow-y-auto scrollbar-thumb-blue scrollbar-thumb-rounded scrollbar-track-blue-lighter scrollbar-w-2 scrolling-touch">
     
     <div class="chat-message">
       <botMessage :message="domain.intro"/>
@@ -53,26 +61,29 @@ style="background: #edf2f7;">
 
          <div class="absolute right-0 items-center inset-y-0 hidden sm:flex">
                  
-            <button type="submit" v-if="inputMessage" class="inline-flex items-center justify-center rounded-lg px-4 py-3 transition duration-500 ease-in-out text-white bg-pink hover:bg-blue-400 focus:outline-none">
-               <span class="font-bold">Envoyer</span>
-               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="h-6 w-6 ml-2 transform rotate-90">
+            <button type="submit" v-if="inputMessage" class="inline-flex items-center justify-center rounded-lg px-4 py-3 transition duration-500 ease-in-out text-white bg-pink-700 hover:bg-gray-400 focus:outline-none">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="h-6 w-6 ml-1 mr-2 transform">
                   <path d="M10.894 2.553a1 1 0 00-1.788 0l-7 14a1 1 0 001.169 1.409l5-1.429A1 1 0 009 15.571V11a1 1 0 112 0v4.571a1 1 0 00.725.962l5 1.428a1 1 0 001.17-1.408l-7-14z"></path>
                </svg>
+               
+               <span class="font-bold">Envoyer</span>
+
             </button>
 
          </div>
-            </form>
+        </form>
 
-
-   </div>
-
-</div>
+     </div>
+  </div>
 </div>
 </template>
 
-
 <style>
-
+#messages{
+  display: flex;
+  /* flex-direction: column-reverse; */
+  overflow-y: scroll;
+}
 
 .scrollbar-w-2::-webkit-scrollbar {
   width: 0.25rem;
@@ -107,7 +118,9 @@ export default {
     },
     data() {
       return {
-        messages: [],
+        messages: [
+         
+      ],
         inputMessage: '',
         waiting: false,
         error: false,
@@ -147,14 +160,16 @@ export default {
         })
           .then(response => response.json())
           .then(data => {
+            // replace add href to links
+            data.answer = data.answer.replace(/(https?:\/\/[^\s]+)/g, '<a href="$1" target="_blank" class="underline">🔗 $1</a>');
+
             const reply = {
               content: data.answer,
               isUser: false,
             };
             this.messages.push(reply);
             this.waiting = false;
-            var container = this.$el.querySelector("#messages");
-            container.scrollTop = container.scrollHeight;
+            // scroll to bottom
 
           })
           .catch(error => {
@@ -162,7 +177,8 @@ export default {
             this.error = true;
             console.error('Erreur lors de la requête:', error);
           });  
-          
+      
+             
       }
     }
   };

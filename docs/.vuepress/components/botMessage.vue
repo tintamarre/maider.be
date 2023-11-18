@@ -5,16 +5,23 @@ import maiderIcon from './icons/maiderIcon.vue';
 
 <template>
          <div class="flex items-end">
-            <div class="flex flex-col space-y-2 text-sm max-w-xs mx-2 order-2 items-start">
+            <div class="flex flex-col space-y-2 text-sm max-w-sm mx-2 order-2 items-start text-white">
                <div>
-                  <span class="px-4 py-2 rounded-lg inline-block rounded-bl-none bg-pink text-white" style="white-space: pre-line;" :class="{ 'bg-red-100': hasError, 'bg-blue-500': isWaiting }">
-                  <maiderWaitingIcon class="w-12 h-8 rounded-full order-1 float-left" v-if="isWaiting" />
-                     {{ message }}
-                  </span>
+                  <div class="px-4 py-2 rounded-lg inline-block rounded-bl-none bg-pink-600 bg-gradient-to-r from-pink-700" style="white-space: pre-line;" 
+                  :class="{ 
+                  'bg-white from-white text-gray-600 border-2 border-gray-300': isWaiting,
+                  'bg-white from-white border-2 border-red-700 text-gray-900': hasError}">
+                  <maiderWaitingIcon class="w-8 h-8 rounded-full order-1 float-left" v-if="isWaiting" />
+                  <span v-html="message"></span>
+                                   
+               </div>
             </div>
+            
             </div>
-            <maiderIcon class="w-12 h-8 rounded-full order-1" />
+            
+            <maiderIcon class="w-10 h-10 rounded-lg order-1" v-if="!isWaiting"/>
          </div>
+
 </template>
 
 <script>
