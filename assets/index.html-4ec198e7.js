@@ -1,0 +1,1 @@
+import{_ as n,r as o,o as t,c,d as r}from"./app-197e64df.js";const _={};function a(s,l){const e=o("rag");return t(),c("div",null,[r(e)])}const m=n(_,[["render",a],["__file","index.html.vue"]]);export{m as default};

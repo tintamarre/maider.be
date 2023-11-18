@@ -1,0 +1,1 @@
+import{_ as c,r as e,o as s,c as _,d as o}from"./app-197e64df.js";const a={};function r(d,l){const n=e("listpages"),t=e("iodda");return s(),_("div",null,[o(n),o(t)])}const m=c(a,[["render",r],["__file","index.html.vue"]]);export{m as default};
