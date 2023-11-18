@@ -1,0 +1,1 @@
+import{_ as c,r as e,o as s,c as a,a as o}from"./app-dcf1add8.js";const _={};function r(l,d){const n=e("listpages"),t=e("iodda");return s(),a("div",null,[o(n),o(t)])}const m=c(_,[["render",r],["__file","index.html.vue"]]);export{m as default};
